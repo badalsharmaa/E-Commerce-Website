@@ -1,14 +1,11 @@
 
-# E-Commerce Website (Lifestyle Store)  :-
-
-
-# Watch Life Preview 👇
+# Watch Live Preview 👇
 
 
 http://lifestylestore.42web.io/
 
 
-# E-commerce Website for Mobile, Tablet, Earbud and Smart Watches
+# E-Commerce Website (Lifestyle Store)  :-
 
 
 ![Web capture_22-6-2023_20320_lifestylestore 42web io](https://github.com/badalsharmaa/lifestyle-store/assets/71165326/da2b031f-bf4b-4346-b1c9-cb5677e1c1b5)
